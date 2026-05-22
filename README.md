@@ -1,3 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dnskr)](https://git.io/streak-stats)
-
-[![My Skills](https://skillicons.dev/icons?i=bash,git,docker,kubernetes,java,py,grafana,prometheus)](https://skillicons.dev)
+<div align="center">
+  <div>
+    <a><img src="https://streak-stats.demolab.com/?user=dnskr" alt="Streak Stats" /></a>
+    <a><img src="https://skillicons.dev/icons?i=bash,git,docker,kubernetes,java,py,grafana,prometheus" alt="Skills" /></a>
+  </div>
+</div>
